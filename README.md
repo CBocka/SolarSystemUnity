@@ -14,6 +14,7 @@ También se incluye, aunque no es utilizada, una implementación del movimiento 
 
 <br>
 <p align="center">
-<img src="https://github.com/CBocka/SolarSystemUnity/assets/156449965/3cd78070-4bca-477c-8e67-41e1c67e53df" height="450" width="220" >
+<img src="https://github.com/CBocka/SolarSystemUnity/assets/156449965/315ae535-ef8e-4e77-ac21-dfc4143bc432" height="450" width="220" >
 </p>
 <br>
+
